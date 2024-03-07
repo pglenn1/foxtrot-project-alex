@@ -1,0 +1,26 @@
+{
+    "name": "Phillip Alexander Glenn",
+    "email": "pglenn1@una.edu",
+    "education": [
+      {
+        "degree": "BBA - Computer Information Systems",
+        "university": "University of North Alabama",
+        "year": "2025"
+      }
+    ],
+    "experience": [
+      {
+        "position": "IT Intern",
+        "company": "Danmark Technologies",
+        "duration": "September 2023 - 2024",
+        "description": "Initialized Chromebooks with enrollment process and updates."
+      }
+    ],
+    "skills": [
+      "Web Development",
+      "Python",
+      "Statistical Analysis",
+      "Python Package Development",
+      "Process Automation"
+    ]
+  }
